@@ -1,4 +1,4 @@
-## Blockchain Links
+## Blockchain Analytics Tools
 ### [Santiment](https://santiment.net/)
 Multichain analytic platform for social, market and onchain data
 ### [BitQuery](https://bitquery.io/)
