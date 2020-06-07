@@ -20,7 +20,7 @@ Labeling analytic tool for Ethereum
 ## Graph Analytic Tools
 ### [Clickhouse](https://clickhouse.tech/)
 ClickHouse is a fast open-source OLAP database management system.
-It is column-oriented and allows to generate analytical reports using SQL queries in real-time.
+It is column-oriented and allows to generate analytical reports using SQL queries in real-time.  
 This tool has become the standard for the analysis of blockchain data, it combines high speed and flexibility.
 ### [Spark](https://spark.apache.org/)
 #### [GraphFrames](https://graphframes.github.io/graphframes)
