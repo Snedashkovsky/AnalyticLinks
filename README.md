@@ -52,4 +52,4 @@ Joblib is a set of tools to provide lightweight pipelining in Python. Joblib is 
 [github.com/dask/dask](https://github.com/dask/dask)  
 Dask is a flexible library for parallel computing in Python. You can use numpy-like or pandas-like syntax.
 ### [Dataset Search](https://datasetsearch.research.google.com/)
-Google Dataset Search allows to find the data you are interested in.
+Google Dataset Search allows to find a data you are interested in.
