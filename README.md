@@ -49,7 +49,7 @@ Apache Giraph is an iterative graph processing system built for high scalability
 ### [neo4j](https://neo4j.com/)
 [github.com/neo4j](https://github.com/neo4j)  
 The well-known graph database has wide functionality for graph analysis. The free version has significant limitations and can be recommended for analyzing graphs with a total number of edges and vertices of less than 10M. I do not recommend using it in a production.
-### [Amazon Neptune](https://aws.amazon.com/ru/nosql/graph/)
+### [Amazon Neptune](https://aws.amazon.com/nosql/graph/)
 [github.com/aws](https://github.com/aws?q=neptune&type=&language=)  
 [github.com/awslabs/amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools)  
 [github.com/aws-samples/amazon-neptune-samples](https://github.com/aws-samples/amazon-neptune-samples)  
