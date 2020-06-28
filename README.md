@@ -53,8 +53,11 @@ The well-known graph database has wide functionality for graph analysis. The fre
 [github.com/aws](https://github.com/aws?q=neptune&type=&language=)  
 [github.com/awslabs/amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools)  
 [github.com/aws-samples/amazon-neptune-samples](https://github.com/aws-samples/amazon-neptune-samples)  
-Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Neptune supports the popular graph models property graph and W3C's Resource Description Framework (RDF), and it also supports their respective query languages, Apache TinkerPop Gremlin and SPARQL, to allow you to build queries that efficiently navigate highly connected datasets.  
-
+Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Neptune supports the popular graph models property graph and W3C's Resource Description Framework (RDF), and it also supports their respective query languages, Apache TinkerPop Gremlin and SPARQL, to allow you to build queries that efficiently navigate highly connected datasets. 
+### [NetworkX](https://networkx.github.io/)  
+[github.com/networkx](https://github.com/networkx/networkx)  
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
+Commonly used to visualize graphs.
 ## Data Science Analytic Tools
 ### [Machine Learning Financial Laboratory (mlfinlab)](https://mlfinlab.readthedocs.io/)
 [github.com/hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab)  
