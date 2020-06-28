@@ -43,7 +43,7 @@ This tool has become the standard for the analysis of blockchain data, it combin
 GraphFrames is a package for Apache Spark which provides DataFrame-based Graphs. It provides high-level APIs in Scala, Java, and Python. It aims to provide both the functionality of GraphX and extended functionality taking advantage of Spark DataFrames. This extended functionality includes motif finding, DataFrame-based serialization, and highly expressive graph queries.
 #### [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html)
 [github.com/apache/spark/tree/master/graphx](https://github.com/apache/spark/tree/master/graphx)  
-GraphX is a new component in Spark for graphs and graph-parallel computation. At a high level, GraphX extends the Spark RDD by introducing a new Graph abstraction: a directed multigraph with properties attached to each vertex and edge.
+GraphX is a new component in Spark for graphs and graph-parallel computation. At a high level, GraphX extends the Spark RDD by introducing a new Graph abstraction: a directed multigraph with properties attached to each vertex and edge.  
 There is only the Scala API and does not have a Python API.
 ### [Apache Giraph](https://giraph.apache.org/)  
 Apache Giraph is an iterative graph processing system built for high scalability. For example, it is currently used at Facebook to analyze the social graph formed by users and their connections. Giraph originated as the open-source counterpart to Pregel, the graph processing architecture developed at Google and described in a 2010 [paper](http://dl.acm.org/citation.cfm?id=1807184).
