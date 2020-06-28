@@ -50,9 +50,9 @@ Apache Giraph is an iterative graph processing system built for high scalability
 [github.com/neo4j](https://github.com/neo4j)  
 The well-known graph database has wide functionality for graph analysis. The free version has significant limitations and can be recommended for analyzing graphs with a total number of edges and vertices of less than 10M. I do not recommend using it in a production.
 ### [Amazon Neptune](https://aws.amazon.com/ru/nosql/graph/)
-[github.com/aws](https://github.com/aws?q=neptune&type=&language=) 
-[github.com/awslabs/amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools)
-[github.com/aws-samples/amazon-neptune-samples](https://github.com/aws-samples/amazon-neptune-samples)
+[github.com/aws](https://github.com/aws?q=neptune&type=&language=)  
+[github.com/awslabs/amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools)  
+[github.com/aws-samples/amazon-neptune-samples](https://github.com/aws-samples/amazon-neptune-samples)  
 Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Neptune supports the popular graph models property graph and W3C's Resource Description Framework (RDF), and it also supports their respective query languages, Apache TinkerPop Gremlin and SPARQL, to allow you to build queries that efficiently navigate highly connected datasets.  
 
 ## Data Science Analytic Tools
