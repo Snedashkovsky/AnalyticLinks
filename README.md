@@ -59,6 +59,11 @@ Amazon Neptune is a purpose-built, high-performance graph database engine optimi
 [github.com/networkx](https://github.com/networkx/networkx)  
 NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
 Commonly used to visualize graphs.
+### [ipycytoscape](https://ipycytoscape.readthedocs.io/en/latest/)  
+[github.com/QuantStack/ipycytoscape](https://github.com/QuantStack/ipycytoscape)  
+Visualize graphs using Cytoscape.js in a Jupyter Notebook.  
+You can either create graphs using the ipycytoscape API or create them from NetworkX, JSON and Pandas Dataframes.
+
 ## Data Science Analytic Tools
 ### [Machine Learning Financial Laboratory (mlfinlab)](https://mlfinlab.readthedocs.io/)
 [github.com/hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab)  
