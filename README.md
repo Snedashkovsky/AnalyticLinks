@@ -63,6 +63,12 @@ Commonly used to visualize graphs.
 [github.com/QuantStack/ipycytoscape](https://github.com/QuantStack/ipycytoscape)  
 Visualize graphs using Cytoscape.js in a Jupyter Notebook.  
 You can either create graphs using the ipycytoscape API or create them from NetworkX, JSON and Pandas Dataframes.
+### [Gephi](https://gephi.org/)  
+[github.com/gephi/gephi](https://github.com/gephi/gephi)  
+Gephi is the leading visualization and exploration App for all kinds of graphs and networks.
+### [Plotly / Dash Network visualisation](plotly.com/python/network-graphs)  
+[github.com/plotly](https://github.com/plotly)  
+Easy way to build webApp with network visualization
 
 ## Data Science Analytic Tools
 ### [Machine Learning Financial Laboratory (mlfinlab)](https://mlfinlab.readthedocs.io/)
